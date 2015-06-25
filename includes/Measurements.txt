@@ -1,0 +1,66 @@
+LOGO
+width: 100px
+height: 100px
+top-margin: 20px
+bottom-margin: 20px
+left-margin: 20px
+right-margin: 50px
+
+LOGIN
+width: 226px
+height: 87px
+top-margin: 20px
+bottom-margin: 20px
+right-margin: 20px
+
+-HOMEPAGE-
+
+FEATURED
+width: 920px
+height: 370px
+top-margin: 20px
+bottom-margin: 20px
+left-margin: 20px
+right-margin: 20px
+
+DESCRIPTION
+width: 480px
+height: 70px
+top-margin: 20px
+bottom-margin: 20px
+left-margin: 20px
+
+-ABOUT PAGE-
+
+ABOUT PHOTO
+width: 920px
+height: 370px
+top-margin: 20px
+bottom-margin: 20px
+left-margin: 20px
+right-margin: 20px
+
+ABOUT DESCRIPTION
+width: 760px
+height: 210px
+top-margin: 80px
+bottom-margin: 80px
+left-margin: 80px
+right-margin: 80px
+
+-CONTACT PAGE-
+
+CONTACT INFO
+width: 440px
+height: 370px
+top-margin: 20px
+bottom-margin: 20px
+left-margin: 40px
+
+FILL SECTION
+width: 440px
+height: 370px
+top-margin: 20px
+bottom-margin: 20px
+right-margin: 40px
+

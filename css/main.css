@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	margin-left: 20px;
+	height: 100%;
+	padding-bottom: 10px;
+}
+
+/* hidden class declaration*/
+.hidden
+  {
+	display: none;
+}
+
+#siteContainer 
+{
+	margin: 0 auto;
+	width: 980px;
+	min-height: 100%;
+}
+
+#mainHeader
+{
+	margin-top: 100px;
+	overflow: hidden;
+}
+
+#mainNav 
+{
+	float: right;
+	width: 60px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	margin-right: 35px;
+	margin-top: 65px;
+}
+
+#mainNav a
+{
+	text-decoration:none;
+	color: #000;
+	text-align: right;
+}
+
+#galleryNav 
+{
+	float: right;
+	width: 60px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	margin-right: 35px;
+}
+
+#galleryNav a
+{
+	text-decoration:none;
+	color: #000;
+	text-align: right;
+}
+
+#promo 
+{
+	float: right;
+}
+
+#infoSpot
+{
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#mainFooter
+{
+	height: 60px;
+	width: 100%;
+	bottom: 0;
+	margin-top: 30px;
+	overflow: hidden;
+}
+
+#footerNav
+{
+	margin: 0 auto;
+	width: 300px;
+	font-size: 12px;
+
+}
+
+#footerNav ul
+{
+	height: auto;
+	padding: 8px 0;
+}
+
+#footerNav li
+{
+	display: inline;
+	padding: 5px;
+}
+
+#footerNav a
+{
+	text-decoration:none;
+	color: #999;
+}
+
+
+
+
+

@@ -1,0 +1,4 @@
+http://codepen.io/dominiceden/pen/pBGkm
+
+used the basic breathing trait and added it to the websites logo, to create a 
+infinite growing and shrinking effect to the logo. 
