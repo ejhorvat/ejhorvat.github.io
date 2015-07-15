@@ -3,12 +3,13 @@
 
 body
 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Arial', sans-serif;
 	font-size: 16px;
 	line-height: 20px;
 	margin-left: 20px;
 	height: 100%;
 	padding-bottom: 10px;
+	background-color: #000
 }
 
 /* hidden class declaration*/
@@ -39,12 +40,13 @@ body
 	text-align: left;
 	margin-right: 35px;
 	margin-top: 65px;
+	color: #ffffff;
 }
 
 #mainNav a
 {
 	text-decoration:none;
-	color: #000;
+	color: #ffffff;
 	text-align: right;
 }
 
@@ -61,13 +63,18 @@ body
 #galleryNav a
 {
 	text-decoration:none;
-	color: #000;
+	color: #ffffff;
 	text-align: right;
 }
 
 #promo 
 {
 	float: right;
+}
+
+.galleryImage
+{
+	margin-bottom: 400px;
 }
 
 #infoSpot
